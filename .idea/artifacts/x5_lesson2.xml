@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="x5_lesson2">
+    <output-path>$PROJECT_DIR$/out/artifacts/x5_lesson2</output-path>
+    <root id="root">
+      <element id="archive" name="x5_lesson2.jar">
+        <element id="module-output" name="x5_lesson2" />
+      </element>
+    </root>
+  </artifact>
+</component>
